@@ -1,4 +1,3 @@
-.ban feelingv0e
 .ban feelingwaylay
 .ban feelingwla
 .ban feelingwur
@@ -49998,3 +49997,4 @@
 .ban kai_tzu
 .ban kai_whitepaw
 .ban kai0shii
+.ban kai450
