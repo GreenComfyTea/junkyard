@@ -1047,3 +1047,4 @@
 /ban zipishavit
 /ban zombiekidgaming
 /ban zoophytes
+/ban hoss00312_restart
