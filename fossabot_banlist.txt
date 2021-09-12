@@ -1919,6 +1919,7 @@
 /ban hoss00312_undefeatable
 /ban hoss00312_uwu
 /ban hoss00312_wins
+/ban hoss00312_zachsaptv
 /ban hoss00312notabot
 /ban hoss00313
 /ban hoss003133
